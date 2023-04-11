@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "string-methods": "nodemon ./js/14-string-methods.js",
+    "arrow": "nodemon ./js/13-arrow.js",
+    "ternary": "nodemon ./js/12-ternary.js",
+    "switch": "nodemon ./js/11-switch.js",
     "math": "nodemon ./js/10-math-operators.js",
     "for": "nodemon ./js/09-for.js",
     "if": "nodemon ./js/08-if.js",
